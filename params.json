@@ -1,0 +1,11 @@
+{
+    "bucket": <BUCKET_NAME>,
+    "key": <KEY>,
+    "cloudant_url": <CLOUDANT_DB_URL>,
+    "config": {
+        "endpoint": <IBM_COS_ENDPOINT>,
+        "apiKeyId": <IBM_COS_APIKEY>,
+        "ibmAuthEndpoint": "https://iam.ng.bluemix.net/oidc/token",
+        "serviceInstanceId": <RESOURE_INSTANCE_ID>
+    }
+}
